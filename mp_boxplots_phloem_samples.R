@@ -1,9 +1,5 @@
 #install.packages("ggplot")
 library(readxl)
-library(plyr)
-library(dplyr)
-library(tidyr)
-library(tidyverse)
 library(ggplot2)
 
 archivo_csv <- "phloem_grouped_data.csv"
